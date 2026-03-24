@@ -1,4 +1,5 @@
 # England & Wales microcensus analysis of nurses' commuting patterns
+[![DOI](https://zenodo.org/badge/1018535453.svg)](https://doi.org/10.5281/zenodo.19209218)
 
 ## Overview
 This repository contains the public analysis code and supporting documentation for the completed England & Wales microcensus analysis of nurses' commuting patterns.
@@ -6,6 +7,14 @@ This repository contains the public analysis code and supporting documentation f
 The study examines commuting distance and transport mode among nurses and midwives compared with a comparator occupational group using England & Wales microcensus data. The associated manuscript has been submitted to *International Nursing Review* and is currently under peer review.
 
 This repository is being shared to improve transparency and reproducibility. The underlying microdata are restricted-access and cannot be made publicly available here.
+
+## Citation
+
+If you use this code, please cite the archived Zenodo release:
+
+Jamieson, M., & Atherton, I. (2026). *England & Wales microcensus analysis of nurses' commuting patterns* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.19209218
+
+Concept DOI for the repository as a whole: https://doi.org/10.5281/zenodo.19209219
 
 ## Study status
 - **Analysis status:** completed
