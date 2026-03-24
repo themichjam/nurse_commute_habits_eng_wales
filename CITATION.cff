@@ -1,14 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the archived release."
-title: "England & Wales 2021 microcensus analysis of nurses' commuting patterns"
+title: "England & Wales microcensus analysis of nurses' commuting patterns"
 type: software
 authors:
   - family-names: "Jamieson"
     given-names: "Michelle"
     affiliation: "Edinburgh Napier University; Scottish Centre for Administrative Data Research (SCADR)"
-    orcid: "https://orcid.org/YOUR-ORCID-HERE"
+    orcid: "https://orcid.org/0000-0003-2145-8988"
   - family-names: "Atherton"
     given-names: "Iain"
     affiliation: "Edinburgh Napier University; Scottish Centre for Administrative Data Research (SCADR)"
-repository-code: "https://github.com/themichjam/nurse_travel_england_wales"
+repository-code: "https://github.com/themichjam/nurse_commute_habits_eng_wales"
+url: "https://github.com/themichjam/nurse_commute_habits_eng_wales"
 license: "MIT"
