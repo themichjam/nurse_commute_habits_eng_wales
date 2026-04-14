@@ -1,5 +1,7 @@
 # England & Wales 2021 microcensus analysis of nurses' commuting patterns
-[![DOI](https://zenodo.org/badge/1018535453.svg)](https://zenodo.org/badge/latestdoi/1018535453)
+
+[![Zenodo DOI](https://zenodo.org/badge/1018535453.svg)](https://zenodo.org/badge/latestdoi/1018535453)
+[![OSF DOI](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FQS4WV-blue)](https://doi.org/10.17605/OSF.IO/QS4WV)
 
 ## Overview
 This repository contains the public analysis code and supporting documentation for the completed England & Wales 2021 microcensus analysis of nurses' commuting patterns.
