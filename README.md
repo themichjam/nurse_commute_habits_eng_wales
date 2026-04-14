@@ -2,7 +2,7 @@
 
 [![OSF](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FQS4WV-blue)](https://doi.org/10.17605/OSF.IO/QS4WV)
 [![DOI](https://zenodo.org/badge/1018535453.svg)](https://zenodo.org/badge/latestdoi/1018535453)
-[![Environment](https://img.shields.io/badge/Environment-Safegaurded%20Data-orange)
+[![Environment](https://img.shields.io/badge/Environment-Safeguarded%20Data-orange)](#data-access)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This repository provides the analysis code for a completed study of nurses’ commuting patterns using England & Wales Census 2021 microdata. The project is documented on OSF and archived on Zenodo for reproducibility.
