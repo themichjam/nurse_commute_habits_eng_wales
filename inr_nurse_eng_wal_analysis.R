@@ -21,7 +21,7 @@ varying_covariates <- function(dat, vars) {
 ## Load + prepare data
 ## ============================================================
 survey_data <- read_sav(
-  "X:/R2090/nurse_travel_project/data/raw/safeguarded_reg_final_csv2023_07_12.sav"
+  "WHERE-THE-DATA-LIVES.sav"
 )
 
 survey_data <- survey_data %>%
